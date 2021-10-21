@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tests>
+  <Test>
+    <numOfTest>10000001</numOfTest>
+    <testerId>208098699</testerId>
+    <traineeId>317801157</traineeId>
+    <date>01/01/2020</date>
+    <hour>9</hour>
+    <Passed>passed</Passed>
+    <address>
+      <city>rr</city>
+      <street>r</street>
+      <buildingNum>1</buildingNum>
+    </address>
+    <testetTypeCar>privateCar</testetTypeCar>
+    <gearbox>automatic</gearbox>
+    <mark>failed</mark>
+    <Priority>True</Priority>
+    <mirror>True</mirror>
+    <reverse>True</reverse>
+    <parking>True</parking>
+    <signaling>True</signaling>
+    <note></note>
+  </Test>
+  <Test>
+    <numOfTest>10000003</numOfTest>
+    <testerId>208098699</testerId>
+    <traineeId>317801157</traineeId>
+    <date>2019-01-27T00:00:00</date>
+    <hour>9</hour>
+    <Passed>passed</Passed>
+    <address>
+      <city>ranana</city>
+      <street>yacov hazan</street>
+      <buildingNum>3</buildingNum>
+    </address>
+    <testetTypeCar>privateCar</testetTypeCar>
+    <gearbox>automatic</gearbox>
+    <mark>failed</mark>
+    <Priority>false</Priority>
+    <mirror>false</mirror>
+    <reverse>false</reverse>
+    <parking>false</parking>
+    <signaling>false</signaling>
+    <note />
+  </Test>
+</tests>

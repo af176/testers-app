@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trainees>
+  <Trainee>
+    <id>317801132</id>
+    <name>
+      <firstName>A</firstName>
+      <lastName>4</lastName>
+    </name>
+    <traineeBirth>1/1/1999</traineeBirth>
+    <traineeGender>male</traineeGender>
+    <phone>1111111111</phone>
+    <address>
+      <city>S</city>
+      <street>S</street>
+      <buildingNum>2</buildingNum>
+    </address>
+    <nameOFSchool>drivingSchool</nameOFSchool>
+    <nameOfTeacher>FFF</nameOfTeacher>
+    <traineeTypeCar>privateCar</traineeTypeCar>
+    <traineeGearbox>automatic</traineeGearbox>
+    <dateLastTest>1/1/0001</dateLastTest>
+    <numOfTests>0</numOfTests>
+    <numOfLessons>20</numOfLessons>
+  </Trainee>
+</trainees>

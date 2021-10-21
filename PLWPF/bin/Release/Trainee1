@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trainees>
+  <Trainee>
+    <id>317801157</id>
+    <name>
+      <firstName>abigail</firstName>
+      <lastName>fox</lastName>
+    </name>
+    <traineeBirth>1999-01-01T00:00:00</traineeBirth>
+    <traineeGender>female</traineeGender>
+    <phone>584513643</phone>
+    <address>
+      <city>raanana</city>
+      <street>yaacov hazan</street>
+      <buildingNum>30</buildingNum>
+    </address>
+    <nameOFSchool>drivingSchool</nameOFSchool>
+    <nameOfTeacher>keren</nameOfTeacher>
+    <traineeTypeCar>privateCar</traineeTypeCar>
+    <traineeGearbox>automatic</traineeGearbox>
+    <dateLastTest>0001-01-01T00:00:00</dateLastTest>
+    <numOfTests>0</numOfTests>
+    <numOfLessons>20</numOfLessons>
+  </Trainee>
+  <Trainee>
+    <id>207815689</id>
+    <name>
+      <firstName>chaya</firstName>
+      <lastName>frank</lastName>
+    </name>
+    <traineeBirth>1999-06-05T00:00:00</traineeBirth>
+    <traineeGender>female</traineeGender>
+    <phone>533137567</phone>
+    <address>
+      <city>bney brak</city>
+      <street>radak </street>
+      <buildingNum>5</buildingNum>
+    </address>
+    <nameOFSchool>learningToDrive</nameOFSchool>
+    <nameOfTeacher>tamar</nameOfTeacher>
+    <traineeTypeCar>motorcycle</traineeTypeCar>
+    <traineeGearbox>automatic</traineeGearbox>
+    <dateLastTest>0001-01-01T00:00:00</dateLastTest>
+    <numOfTests>0</numOfTests>
+    <numOfLessons>20</numOfLessons>
+  </Trainee>
+</trainees>

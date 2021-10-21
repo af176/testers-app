@@ -1,0 +1,72 @@
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\UII.exe.config
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\UII.exe
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\UII.pdb
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\BE.dll
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\BL.dll
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\DAL.dll
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\DS.dll
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\BE.pdb
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\BL.pdb
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\DAL.pdb
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\bin\Debug\DS.pdb
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\UII.csprojAssemblyReference.cache
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\App.g.cs
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\UII_MarkupCompile.cache
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\UII_MarkupCompile.lref
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\UII.g.resources
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\UII.Properties.Resources.resources
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\UII.csproj.GenerateResource.cache
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\UII.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\UII.csproj.CopyComplete
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\UII.exe
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\UII\obj\Debug\UII.pdb
+C:\Users\user\Downloads\תמר\UII\bin\Debug\UII.exe.config
+C:\Users\user\Downloads\תמר\UII\bin\Debug\UII.exe
+C:\Users\user\Downloads\תמר\UII\bin\Debug\UII.pdb
+C:\Users\user\Downloads\תמר\UII\bin\Debug\BE.dll
+C:\Users\user\Downloads\תמר\UII\bin\Debug\BL.dll
+C:\Users\user\Downloads\תמר\UII\bin\Debug\DAL.dll
+C:\Users\user\Downloads\תמר\UII\bin\Debug\DS.dll
+C:\Users\user\Downloads\תמר\UII\bin\Debug\BE.pdb
+C:\Users\user\Downloads\תמר\UII\bin\Debug\BL.pdb
+C:\Users\user\Downloads\תמר\UII\bin\Debug\DAL.pdb
+C:\Users\user\Downloads\תמר\UII\bin\Debug\DS.pdb
+C:\Users\user\Downloads\תמר\UII\obj\Debug\UII.csprojAssemblyReference.cache
+C:\Users\user\Downloads\תמר\UII\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\תמר\UII\obj\Debug\App.g.cs
+C:\Users\user\Downloads\תמר\UII\obj\Debug\UII_MarkupCompile.cache
+C:\Users\user\Downloads\תמר\UII\obj\Debug\UII_MarkupCompile.lref
+C:\Users\user\Downloads\תמר\UII\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\תמר\UII\obj\Debug\UII.g.resources
+C:\Users\user\Downloads\תמר\UII\obj\Debug\UII.Properties.Resources.resources
+C:\Users\user\Downloads\תמר\UII\obj\Debug\UII.csproj.GenerateResource.cache
+C:\Users\user\Downloads\תמר\UII\obj\Debug\UII.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\תמר\UII\obj\Debug\UII.csproj.CopyComplete
+C:\Users\user\Downloads\תמר\UII\obj\Debug\UII.exe
+C:\Users\user\Downloads\תמר\UII\obj\Debug\UII.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\UII.csprojAssemblyReference.cache
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\App.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\UII_MarkupCompile.cache
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\UII_MarkupCompile.lref
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\UII.exe
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\UII.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\UII.exe.config
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\UII.exe
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\UII.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\BE.dll
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\BL.dll
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\DAL.dll
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\DS.dll
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\BE.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\BL.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\bin\Debug\DS.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\UII.g.resources
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\UII.Properties.Resources.resources
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\UII.csproj.GenerateResource.cache
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\UII.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הודיה ואיילת האלופות\UII\obj\Debug\UII.csproj.CopyComplete

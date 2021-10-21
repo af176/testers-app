@@ -1,0 +1,596 @@
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\App.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\Menu.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\Menu.baml
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\BasicTester.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\BasicTest.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\BasicTrainee.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\BE.dll
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\BL.dll
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\DAL.dll
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\DS.dll
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\BE.pdb
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\BL.pdb
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\DAL.pdb
+C:\Users\user\Downloads\תמר\PLWPF\bin\Debug\DS.pdb
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\BasicTester.baml
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\BasicTest.baml
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\BasicTrainee.baml
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\user\Downloads\תמר\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\תמר\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\BasicTest.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\BasicTester.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\BasicTrainee.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\Menu.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\BasicTest.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\BasicTester.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\BasicTrainee.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\Menu.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\תמר\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\BasicTest.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\BasicTester.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\BasicTrainee.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\Menu.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\BasicTest.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\BasicTester.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\BasicTrainee.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\Menu.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TesterFunctions.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TesterFunctions.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TraineeFunctions.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TestFunctions.g.cs
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TestFunctions.baml
+C:\Users\User\Desktop\הודיה ואיילת האלופות\PLWPF\obj\Debug\TraineeFunctions.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TesterFunctions.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TestFunctions.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TraineeFunctions.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\App.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\BE.dll
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\BL.dll
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\DAL.dll
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\DS.dll
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\BE.pdb
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\BL.pdb
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\DAL.pdb
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\bin\Debug\DS.pdb
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TesterFunctions.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TestFunctions.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TraineeFunctions.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\trainee.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\trainee.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\test.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\test.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\tester.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\tester.baml
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\myFind.g.cs
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\PLWPF\obj\Debug\myFind.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\BE.dll
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\BL.dll
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\DAL.dll
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\DS.dll
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\BE.pdb
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\BL.pdb
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\bin\Debug\DS.pdb
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\myFind.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\test.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\tester.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\trainee.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TesterFunctions.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TestFunctions.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TraineeFunctions.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\App.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\myFind.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\test.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\tester.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\trainee.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TesterFunctions.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TestFunctions.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TraineeFunctions.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\GroupTraineeBySchool.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\GroupTraineeByTester.g.cs
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\GroupTraineeBySchool.baml
+C:\Users\ioshu\Downloads\תסתמי\PLWPF\obj\Debug\GroupTraineeByTester.baml
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\BE.dll
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\BL.dll
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\DAL.dll
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\DS.dll
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\BE.pdb
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\BL.pdb
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ioshu\Downloads\last\PLWPF\bin\Debug\DS.pdb
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\GroupTraineeBySchool.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\myFind.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\test.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\tester.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\trainee.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TesterFunctions.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TestFunctions.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TraineeFunctions.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\App.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\GroupTraineeBySchool.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\myFind.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\test.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\tester.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\trainee.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TesterFunctions.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TestFunctions.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TraineeFunctions.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\GroupTraineesByTester.g.cs
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\GroupTraineesByTester.baml
+C:\Users\ioshu\Downloads\last\PLWPF\obj\Debug\PLWPF_Content.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\GroupTraineeBySchool.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\GroupTraineesByTester.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\myFind.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\test.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\tester.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\trainee.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TesterFunctions.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TestFunctions.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TraineeFunctions.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\App.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF_Content.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\BE.dll
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\BL.dll
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\DAL.dll
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\DS.dll
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\BE.pdb
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\BL.pdb
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\DAL.pdb
+C:\Users\תמר\Downloads\good night\PLWPF\bin\Debug\DS.pdb
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\GroupTraineeBySchool.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\GroupTraineesByTester.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\myFind.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\test.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\tester.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\trainee.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TesterFunctions.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TestFunctions.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TraineeFunctions.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TestConditions.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\TestConditions.baml
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\GroupTestByDate.g.cs
+C:\Users\תמר\Downloads\good night\PLWPF\obj\Debug\GroupTestByDate.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\BE.dll
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\BL.dll
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\DAL.dll
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\DS.dll
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\BE.pdb
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\BL.pdb
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\DAL.pdb
+C:\Users\ioshu\Desktop\good night\PLWPF\bin\Debug\DS.pdb
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\GroupTestByDate.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\GroupTraineeBySchool.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\GroupTraineesByTester.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\myFind.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\test.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TestConditions.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\tester.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\trainee.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TesterFunctions.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TestFunctions.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TraineeFunctions.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\App.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF_Content.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\GroupTestByDate.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\GroupTraineeBySchool.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\GroupTraineesByTester.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\myFind.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\test.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TestConditions.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\tester.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\trainee.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TesterFunctions.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TestFunctions.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TraineeFunctions.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\allPassedTrainees.g.cs
+C:\Users\ioshu\Desktop\good night\PLWPF\obj\Debug\allPassedTrainees.baml
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\BE.dll
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\BL.dll
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\DAL.dll
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\DS.dll
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\BE.pdb
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\BL.pdb
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\DAL.pdb
+C:\Users\תמר\Desktop\good night\PLWPF\bin\Debug\DS.pdb
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\allPassedTrainees.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\GroupTestByDate.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\GroupTraineeBySchool.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\GroupTraineesByTester.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\myFind.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\test.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TestConditions.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\tester.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\trainee.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TesterFunctions.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TestFunctions.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TraineeFunctions.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\App.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF_Content.g.cs
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\allPassedTrainees.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\GroupTestByDate.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\GroupTraineeBySchool.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\GroupTraineesByTester.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\myFind.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\test.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TestConditions.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\tester.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\trainee.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TesterFunctions.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TestFunctions.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TraineeFunctions.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\תמר\Desktop\good night\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\BE.dll
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\BL.dll
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\DAL.dll
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\DS.dll
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\BE.pdb
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\BL.pdb
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\DAL.pdb
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\bin\Debug\DS.pdb
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\allPassedTrainees.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\GroupTestByDate.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\GroupTraineeBySchool.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\GroupTraineesByTester.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\myFind.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\test.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TestConditions.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\tester.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\trainee.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TestFunctions.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TraineeFunctions.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\App.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF_Content.g.cs
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\allPassedTrainees.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\GroupTestByDate.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\GroupTraineeBySchool.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\GroupTraineesByTester.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\myFind.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\test.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TestConditions.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\tester.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\trainee.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TestFunctions.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TraineeFunctions.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\BE.dll
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\BL.dll
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\DAL.dll
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\DS.dll
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\BE.pdb
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\BL.pdb
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\DAL.pdb
+C:\Users\user\Documents\hhhh\PLWPF\bin\Debug\DS.pdb
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\allPassedTrainees.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\GroupTestByDate.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\GroupTraineeBySchool.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\GroupTraineesByTester.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\myFind.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\test.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TestConditions.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\tester.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\trainee.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\DataGridTest.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\DataGridTester.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\DataGridTrainee.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TesterMenu.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TestFunctions.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TestMenu.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TraineeFunctions.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TraineeMenu.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\App.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF_Content.g.cs
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\allPassedTrainees.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\GroupTestByDate.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\GroupTraineeBySchool.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\GroupTraineesByTester.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\myFind.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\test.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TestConditions.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\tester.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\trainee.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\DataGridTest.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\DataGridTester.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\DataGridTrainee.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TesterMenu.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TestFunctions.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TestMenu.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TraineeFunctions.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\TraineeMenu.baml
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\user\Documents\hhhh\PLWPF\obj\Debug\PLWPF.pdb

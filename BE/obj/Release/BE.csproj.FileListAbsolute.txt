@@ -1,0 +1,12 @@
+C:\Users\user\Documents\hhhh\BE\bin\Release\BE.dll
+C:\Users\user\Documents\hhhh\BE\bin\Release\BE.pdb
+C:\Users\user\Documents\hhhh\BE\obj\Release\BE.csprojAssemblyReference.cache
+C:\Users\user\Documents\hhhh\BE\obj\Release\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\hhhh\BE\obj\Release\BE.dll
+C:\Users\user\Documents\hhhh\BE\obj\Release\BE.pdb
+C:\Users\תמר\Desktop\08-47\hhhh\BE\bin\Release\BE.dll
+C:\Users\תמר\Desktop\08-47\hhhh\BE\bin\Release\BE.pdb
+C:\Users\תמר\Desktop\08-47\hhhh\BE\obj\Release\BE.csprojAssemblyReference.cache
+C:\Users\תמר\Desktop\08-47\hhhh\BE\obj\Release\BE.csproj.CoreCompileInputs.cache
+C:\Users\תמר\Desktop\08-47\hhhh\BE\obj\Release\BE.dll
+C:\Users\תמר\Desktop\08-47\hhhh\BE\obj\Release\BE.pdb

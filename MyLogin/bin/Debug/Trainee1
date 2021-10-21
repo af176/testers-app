@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trainees>
+  <Trainee>
+    <id>317801132</id>
+    <name>
+      <firstName>michal</firstName>
+      <lastName>fox</lastName>
+    </name>
+    <traineeBirth>1995-01-01T00:00:00</traineeBirth>
+    <traineeGender>female</traineeGender>
+    <phone>525513642</phone>
+    <address>
+      <city>raanana</city>
+      <street>moshe bilensky</street>
+      <buildingNum>5</buildingNum>
+    </address>
+    <nameOFSchool>drivingSchool</nameOFSchool>
+    <nameOfTeacher>keren</nameOfTeacher>
+    <traineeTypeCar>privateCar</traineeTypeCar>
+    <traineeGearbox>automatic</traineeGearbox>
+    <dateLastTest>0001-01-01T00:00:00</dateLastTest>
+    <numOfTests>0</numOfTests>
+    <numOfLessons>20</numOfLessons>
+  </Trainee>
+</trainees>

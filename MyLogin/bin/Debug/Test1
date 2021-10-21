@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tests>
+  <Test>
+    <numOfTest>10000001</numOfTest>
+    <idOftester>317801157</idOftester>
+    <idOfTrainee>317801132</idOfTrainee>
+    <date>2020-01-01T00:00:00</date>
+    <hour>9</hour>
+    <address>
+      <city>raanana</city>
+      <street>yaacov hazan</street>
+      <buildingNum>30</buildingNum>
+    </address>
+    <testetTypeCar>privateCar</testetTypeCar>
+    <gearbox>automatic</gearbox>
+    <mark>failed</mark>
+    <keepDis>false</keepDis>
+    <mirror>false</mirror>
+    <reverse>false</reverse>
+    <parking>false</parking>
+    <signaling>false</signaling>
+    <note />
+  </Test>
+</tests>

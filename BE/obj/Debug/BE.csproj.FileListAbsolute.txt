@@ -1,0 +1,82 @@
+C:\Users\User\source\repos\Project01_1182_8170_dotNet5779\BE\bin\Debug\BE.dll
+C:\Users\User\source\repos\Project01_1182_8170_dotNet5779\BE\bin\Debug\BE.pdb
+C:\Users\User\source\repos\Project01_1182_8170_dotNet5779\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Project01_1182_8170_dotNet5779\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Project01_1182_8170_dotNet5779\BE\obj\Debug\BE.dll
+C:\Users\User\source\repos\Project01_1182_8170_dotNet5779\BE\obj\Debug\BE.pdb
+C:\Users\user\Desktop\Project01_1182_8170_dotNet5779\BE\bin\Debug\BE.dll
+C:\Users\user\Desktop\Project01_1182_8170_dotNet5779\BE\bin\Debug\BE.pdb
+C:\Users\user\Desktop\Project01_1182_8170_dotNet5779\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Project01_1182_8170_dotNet5779\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project01_1182_8170_dotNet5779\BE\obj\Debug\BE.dll
+C:\Users\user\Desktop\Project01_1182_8170_dotNet5779\BE\obj\Debug\BE.pdb
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\BE\bin\Debug\BE.dll
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\BE\bin\Debug\BE.pdb
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\BE\obj\Debug\BE.dll
+C:\Users\user\Documents\Project01_1182_8170_dotNet5779555\BE\obj\Debug\BE.pdb
+C:\Users\user\Downloads\תמר\BE\bin\Debug\BE.dll
+C:\Users\user\Downloads\תמר\BE\bin\Debug\BE.pdb
+C:\Users\user\Downloads\תמר\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\תמר\BE\obj\Debug\BE.dll
+C:\Users\user\Downloads\תמר\BE\obj\Debug\BE.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\BE\bin\Debug\BE.dll
+C:\Users\User\Desktop\הודיה ואיילת האלופות\BE\bin\Debug\BE.pdb
+C:\Users\User\Desktop\הודיה ואיילת האלופות\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\User\Desktop\הודיה ואיילת האלופות\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הודיה ואיילת האלופות\BE\obj\Debug\BE.dll
+C:\Users\User\Desktop\הודיה ואיילת האלופות\BE\obj\Debug\BE.pdb
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\BE\bin\Debug\BE.dll
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\BE\bin\Debug\BE.pdb
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\BE\obj\Debug\BE.dll
+C:\Users\תמר\Downloads\פרוייקט איילת הודיה (1)\BE\obj\Debug\BE.pdb
+C:\Users\ioshu\Downloads\תסתמי\BE\bin\Debug\BE.dll
+C:\Users\ioshu\Downloads\תסתמי\BE\bin\Debug\BE.pdb
+C:\Users\ioshu\Downloads\תסתמי\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\ioshu\Downloads\תסתמי\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\ioshu\Downloads\תסתמי\BE\obj\Debug\BE.dll
+C:\Users\ioshu\Downloads\תסתמי\BE\obj\Debug\BE.pdb
+C:\Users\ioshu\Downloads\last\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\ioshu\Downloads\last\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\ioshu\Downloads\last\BE\obj\Debug\BE.dll
+C:\Users\ioshu\Downloads\last\BE\obj\Debug\BE.pdb
+C:\Users\ioshu\Downloads\last\BE\bin\Debug\BE.dll
+C:\Users\ioshu\Downloads\last\BE\bin\Debug\BE.pdb
+C:\Users\תמר\Downloads\good night\BE\bin\Debug\BE.dll
+C:\Users\תמר\Downloads\good night\BE\bin\Debug\BE.pdb
+C:\Users\תמר\Downloads\good night\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\תמר\Downloads\good night\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\תמר\Downloads\good night\BE\obj\Debug\BE.dll
+C:\Users\תמר\Downloads\good night\BE\obj\Debug\BE.pdb
+C:\Users\ioshu\Desktop\good night\BE\bin\Debug\BE.dll
+C:\Users\ioshu\Desktop\good night\BE\bin\Debug\BE.pdb
+C:\Users\ioshu\Desktop\good night\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\ioshu\Desktop\good night\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\ioshu\Desktop\good night\BE\obj\Debug\BE.dll
+C:\Users\ioshu\Desktop\good night\BE\obj\Debug\BE.pdb
+C:\Users\תמר\Desktop\good night\BE\bin\Debug\BE.dll
+C:\Users\תמר\Desktop\good night\BE\bin\Debug\BE.pdb
+C:\Users\תמר\Desktop\good night\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\תמר\Desktop\good night\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\תמר\Desktop\good night\BE\obj\Debug\BE.dll
+C:\Users\תמר\Desktop\good night\BE\obj\Debug\BE.pdb
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\BE\bin\Debug\BE.dll
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\BE\bin\Debug\BE.pdb
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\BE\obj\Debug\BE.dll
+C:\Users\תמר\Downloads\Telegram Desktop\jjj\BE\obj\Debug\BE.pdb
+C:\Users\user\Documents\hhhh\BE\bin\Debug\BE.dll
+C:\Users\user\Documents\hhhh\BE\bin\Debug\BE.pdb
+C:\Users\user\Documents\hhhh\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\user\Documents\hhhh\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\hhhh\BE\obj\Debug\BE.dll
+C:\Users\user\Documents\hhhh\BE\obj\Debug\BE.pdb
+C:\Users\USER\Desktop\our_project (2)\BE\bin\Debug\BE.dll
+C:\Users\USER\Desktop\our_project (2)\BE\bin\Debug\BE.pdb
+C:\Users\USER\Desktop\our_project (2)\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\our_project (2)\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\our_project (2)\BE\obj\Debug\BE.dll
+C:\Users\USER\Desktop\our_project (2)\BE\obj\Debug\BE.pdb

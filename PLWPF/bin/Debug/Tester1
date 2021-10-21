@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testers>
+  <Tester>
+    <id>208098699</id>
+    <name>
+      <firstName>tamar</firstName>
+      <lastName>grinblat</lastName>
+    </name>
+    <testerBirth>1965-01-01T00:00:00</testerBirth>
+    <testerGender>male</testerGender>
+    <phone>506615433</phone>
+    <address>
+      <city>bnei brak</city>
+      <street>harav kuk</street>
+      <buildingNum>11</buildingNum>
+    </address>
+    <experience>2</experience>
+    <maxTests>3</maxTests>
+    <my_Car>privateCar</my_Car>
+    <workingSchedule>
+      <Sunday9pm>true</Sunday9pm>
+      <Sunday10pm>false</Sunday10pm>
+      <Sunday11pm>false</Sunday11pm>
+      <Sunday12pm>false</Sunday12pm>
+      <Sunday13pm>false</Sunday13pm>
+      <Sunday14pm>false</Sunday14pm>
+      <Monday9pm>true</Monday9pm>
+      <Monday10pm>false</Monday10pm>
+      <Monday11pm>false</Monday11pm>
+      <Monday12pm>false</Monday12pm>
+      <Monday13pm>false</Monday13pm>
+      <Monday14pm>false</Monday14pm>
+      <Tuesday9pm>true</Tuesday9pm>
+      <Tuesday10pm>false</Tuesday10pm>
+      <Tuesday11pm>false</Tuesday11pm>
+      <Tuesday12pm>false</Tuesday12pm>
+      <Tuesday13pm>false</Tuesday13pm>
+      <Tuesday14pm>false</Tuesday14pm>
+      <Wednesday9pm>true</Wednesday9pm>
+      <Wednesday10pm>false</Wednesday10pm>
+      <Wednesday11pm>false</Wednesday11pm>
+      <Wednesday12pm>false</Wednesday12pm>
+      <Wednesday13pm>false</Wednesday13pm>
+      <Wednesday14pm>false</Wednesday14pm>
+      <Thursday9pm>true</Thursday9pm>
+      <Thursday10pm>false</Thursday10pm>
+      <Thursday11pm>false</Thursday11pm>
+      <Thursday12pm>false</Thursday12pm>
+      <Thursday13pm>false</Thursday13pm>
+      <Thursday14pm>false</Thursday14pm>
+    </workingSchedule>
+    <maxDis>9</maxDis>
+    <testerGearbox>automatic</testerGearbox>
+  </Tester>
+</testers>
